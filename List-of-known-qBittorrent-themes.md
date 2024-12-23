@@ -20,10 +20,6 @@ See [How to use custom UI themes](https://github.com/qbittorrent/qBittorrent/wik
 
     A dark theme inspired by one of the above.
 
-- https://gitlab.com/qbittorrent-black-theme/client
-
-    A fully dark theme for qBittorrent, just simple black and white, nothing else.
-
 - https://github.com/MahdiMirzade/Dotfiles/tree/main/.config/qbittorrent
 
     A simple dark theme, with a similar color palette as all my other configurations. (i3, kitty, qutebrowser, ...)
